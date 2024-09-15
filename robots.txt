@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://autxeaws.github.io/sitemap/sitemap.txt
